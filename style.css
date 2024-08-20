@@ -1,0 +1,10 @@
+body {
+    background-color: #f2f2f2; /* Gris claro de fondo */
+    color: #333; /* Texto en gris oscuro */
+    font-family: sans-serif; /* Fuente sencilla y moderna */
+    text-align: center; /* Centra el contenido */
+}
+
+h1 {
+    color: #000; /* Título en negro */
+}
